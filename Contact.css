@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+
+}
+
+form {
+  width: 80%;
+  max-width: 500px;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+.mb-3 {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 5px;
+  color: #333;
+  font-weight: bold;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+textarea.form-control {
+  height: 150px;
+}
+
+button {
+  padding: 15px 30px; /* Increase the padding for larger button size */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: hsla(241, 63%, 15%, 1);
+  color: black;
+  font-size: 18px; /* Increase the font size */
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}

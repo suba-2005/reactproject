@@ -1,0 +1,79 @@
+.signup-container {
+  max-width: 400px;
+  margin: 5px auto; /* Reduced margin-top for better positioning */
+  padding: 30px; /* Reduced padding for a more compact appearance */
+  border: 1px solid #ccc;
+  border-radius: 15px; /* Adjusted border-radius for a softer look in the middle */
+  box-shadow: 0 9px 10px rgba(0, 0, 0, 0.5);
+  background-color: white;
+  margin-left: 900px;
+}
+
+.input-group {
+  margin-bottom: 1px; /* Reduced margin-bottom for better spacing */
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 8px; /* Slightly reduced margin-bottom */
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px; /* Reduced padding for a more compact input field */
+  box-sizing: border-box;
+  margin-bottom: 8px; /* Reduced margin-bottom for closer spacing */
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.error-message {
+  color: blue;
+  margin-top: -6px; /* Adjusted margin-top for better positioning */
+}
+
+.bt1 {
+  width: 100%;
+  font-size: 16px;
+  height: 40px;
+  font-weight: bold;
+  background-color:hsla(241, 63%, 15%, 1);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.acc {
+  margin-bottom: 15px; /* Reduced margin-bottom for better spacing */
+}
+
+.check-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; /* Reduced margin-bottom for better spacing */
+}
+
+.check {
+  margin-right: 8px; /* Slightly reduced margin-right */
+}
+
+.link {
+  text-decoration: none;
+  color: #3140eced;
+}
+
+.butt {
+  text-decoration: none;
+  color: blue;
+}
+
+body {
+  background-image: url('c:\Users\pidar\Downloads\pexels-the-lazy-artist-gallery-2217658.jpg');
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}

@@ -1,0 +1,77 @@
+.login-container {
+  max-width: 400px;
+  margin: 140px auto 50px auto; /* Adjusted margin for better vertical spacing */
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0 0 10px black;
+  background-size: cover;
+  background-position: center;
+  margin-left: 900px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 10px; /* Increased margin-bottom for better spacing */
+}
+
+.input-group input {
+  width: 100%;
+  padding: 12px; /* Increased padding for better input field appearance */
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.error-message {
+  color: rgb(238, 39, 39);
+  margin-top: -15px; /* Adjusted margin-top for better positioning */
+}
+
+.fp {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.si {
+  text-decoration: none;
+  color: #3140eced;
+}
+
+.log1 {
+  width: 100%; /* Full width button */
+  font-size: 16px; /* Increased font size */
+  height: 40px; /* Increased button height */
+  font-weight: bold;
+  background-color: hsla(241, 63%, 15%, 1);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.divi {
+  margin-top: 10px; /* Adjusted margin-top for better spacing */
+}
+
+.divq {
+  margin-top: -10px;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.login-container {
+  margin-bottom: 50px;
+}
+
+.footer {
+  margin-top: 50px;
+}
